@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @udayasree-9091
-- 👀 I’m interested in cooking..
+- 👀 Completed Design and Verification Course..
+- 👀 I’m interested in DV Engineer Role..
 - 🌱 I’m currently learning full stack developer course..
 - 💞️ I’m looking to collaborate on developer files..
 - 📫 to reach me at udayasree9091@gmail.com...
